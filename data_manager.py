@@ -59,17 +59,10 @@ def ensure_data_files_exist():
     if not os.path.exists('data'):
         os.makedirs('data')
 
-    # Generate sample data
+    # Always generate fresh sample data
     sample_data = generate_sample_data()
 
-    # Symptoms data structure
-    if not os.path.exists('data/symptoms.csv') or os.path.getsize('data/symptoms.csv') == 0:
-        sample_data['symptoms'].to_csv('data/symptoms.csv', index=False)
-
-    # Diet data structure
-    if not os.path.exists('data/diet.csv') or os.path.getsize('data/diet.csv') == 0:
-        sample_data['diet'].to_csv('data/diet.csv', index=False)
-
-    # Medications data structure
-    if not os.path.exists('data/medications.csv') or os.path.getsize('data/medications.csv') == 0:
-        sample_data['medications'].to_csv('data/medications.csv', index=False)
+    # Save sample data to CSV files
+    sample_data['symptoms'].to_csv('data/symptoms.csv', index=False)
+    sample_data['diet'].to_csv('data/diet.csv', index=False)
+    sample_data['medications'].to_csv('data/medications.csv', index=False)

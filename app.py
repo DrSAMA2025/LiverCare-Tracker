@@ -15,7 +15,7 @@ st.set_page_config(
 if not os.path.exists('data'):
     os.makedirs('data')
 
-# Force regenerate sample data
+# Generate fresh sample data
 ensure_data_files_exist()
 
 # Main page
