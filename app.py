@@ -11,7 +11,11 @@ st.set_page_config(
     layout="wide"
 )
 
-# Initialize data files
+# Initialize data files and ensure data directory exists
+if not os.path.exists('data'):
+    os.makedirs('data')
+
+# Force regenerate sample data
 ensure_data_files_exist()
 
 # Main page
@@ -38,21 +42,21 @@ try:
     symptoms_df = pd.read_csv('data/symptoms.csv')
     diet_df = pd.read_csv('data/diet.csv')
     meds_df = pd.read_csv('data/medications.csv')
-    
+
     today_symptoms = symptoms_df[pd.to_datetime(symptoms_df['date']).dt.date == today]
     today_diet = diet_df[pd.to_datetime(diet_df['date']).dt.date == today]
     today_meds = meds_df[pd.to_datetime(meds_df['date']).dt.date == today]
-    
+
     col1, col2, col3 = st.columns(3)
-    
+
     with col1:
         st.metric("Symptoms Logged Today", len(today_symptoms))
-    
+
     with col2:
         st.metric("Meals Logged Today", len(today_diet))
-    
+
     with col3:
         st.metric("Medications Taken Today", len(today_meds))
-        
+
 except Exception as e:
     st.info("Start tracking your health by adding entries using the sidebar navigation!")
