@@ -1,0 +1,3 @@
+medication_name,time,frequency,enabled
+Diuretics,09:00,Daily,True
+Lactulose,13:00,Daily,True

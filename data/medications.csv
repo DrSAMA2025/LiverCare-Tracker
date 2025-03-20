@@ -1,43 +1,46 @@
 date,medication_name,dosage,taken,notes
-2025-03-20,Beta Blockers,50mg,True,Sample medication entry
+2025-03-20,Beta Blockers,50mg,False,Sample medication entry
 2025-03-20,Diuretics,50mg,False,Sample medication entry
-2025-03-19,Diuretics,50mg,True,Sample medication entry
+2025-03-19,Beta Blockers,50mg,True,Sample medication entry
+2025-03-18,Lactulose,50mg,True,Sample medication entry
 2025-03-18,Beta Blockers,50mg,False,Sample medication entry
-2025-03-18,Diuretics,50mg,False,Sample medication entry
-2025-03-17,Diuretics,50mg,False,Sample medication entry
-2025-03-16,Lactulose,50mg,False,Sample medication entry
+2025-03-17,Beta Blockers,50mg,False,Sample medication entry
+2025-03-16,Diuretics,50mg,True,Sample medication entry
+2025-03-16,Diuretics,50mg,True,Sample medication entry
 2025-03-15,Beta Blockers,50mg,False,Sample medication entry
-2025-03-15,Lactulose,50mg,True,Sample medication entry
-2025-03-14,Beta Blockers,50mg,True,Sample medication entry
-2025-03-13,Lactulose,50mg,True,Sample medication entry
-2025-03-13,Diuretics,50mg,True,Sample medication entry
-2025-03-12,Diuretics,50mg,False,Sample medication entry
-2025-03-11,Diuretics,50mg,True,Sample medication entry
-2025-03-10,Lactulose,50mg,False,Sample medication entry
-2025-03-10,Lactulose,50mg,False,Sample medication entry
+2025-03-14,Lactulose,50mg,True,Sample medication entry
+2025-03-14,Beta Blockers,50mg,False,Sample medication entry
+2025-03-13,Lactulose,50mg,False,Sample medication entry
+2025-03-12,Diuretics,50mg,True,Sample medication entry
+2025-03-11,Beta Blockers,50mg,True,Sample medication entry
+2025-03-10,Beta Blockers,50mg,False,Sample medication entry
+2025-03-09,Beta Blockers,50mg,True,Sample medication entry
 2025-03-09,Lactulose,50mg,False,Sample medication entry
-2025-03-09,Diuretics,50mg,False,Sample medication entry
 2025-03-08,Lactulose,50mg,False,Sample medication entry
-2025-03-08,Diuretics,50mg,False,Sample medication entry
-2025-03-07,Beta Blockers,50mg,False,Sample medication entry
+2025-03-07,Diuretics,50mg,False,Sample medication entry
+2025-03-07,Lactulose,50mg,False,Sample medication entry
 2025-03-06,Diuretics,50mg,False,Sample medication entry
 2025-03-06,Diuretics,50mg,True,Sample medication entry
 2025-03-05,Diuretics,50mg,True,Sample medication entry
-2025-03-04,Beta Blockers,50mg,True,Sample medication entry
-2025-03-04,Beta Blockers,50mg,True,Sample medication entry
-2025-03-03,Diuretics,50mg,True,Sample medication entry
-2025-03-02,Lactulose,50mg,True,Sample medication entry
-2025-03-01,Lactulose,50mg,True,Sample medication entry
-2025-03-01,Lactulose,50mg,False,Sample medication entry
-2025-02-28,Lactulose,50mg,False,Sample medication entry
+2025-03-04,Beta Blockers,50mg,False,Sample medication entry
+2025-03-04,Diuretics,50mg,True,Sample medication entry
+2025-03-03,Lactulose,50mg,False,Sample medication entry
+2025-03-03,Diuretics,50mg,False,Sample medication entry
+2025-03-02,Lactulose,50mg,False,Sample medication entry
+2025-03-02,Lactulose,50mg,False,Sample medication entry
+2025-03-01,Beta Blockers,50mg,True,Sample medication entry
 2025-02-28,Beta Blockers,50mg,True,Sample medication entry
-2025-02-27,Lactulose,50mg,True,Sample medication entry
-2025-02-26,Diuretics,50mg,False,Sample medication entry
-2025-02-25,Lactulose,50mg,True,Sample medication entry
+2025-02-27,Beta Blockers,50mg,False,Sample medication entry
+2025-02-26,Lactulose,50mg,True,Sample medication entry
+2025-02-26,Beta Blockers,50mg,False,Sample medication entry
+2025-02-25,Diuretics,50mg,True,Sample medication entry
+2025-02-24,Lactulose,50mg,False,Sample medication entry
 2025-02-24,Lactulose,50mg,False,Sample medication entry
 2025-02-23,Beta Blockers,50mg,False,Sample medication entry
-2025-02-23,Lactulose,50mg,True,Sample medication entry
+2025-02-23,Lactulose,50mg,False,Sample medication entry
 2025-02-22,Beta Blockers,50mg,True,Sample medication entry
-2025-02-21,Lactulose,50mg,False,Sample medication entry
-2025-02-20,Beta Blockers,50mg,True,Sample medication entry
-2025-02-19,Beta Blockers,50mg,False,Sample medication entry
+2025-02-21,Diuretics,50mg,True,Sample medication entry
+2025-02-21,Beta Blockers,50mg,False,Sample medication entry
+2025-02-20,Lactulose,50mg,True,Sample medication entry
+2025-02-19,Beta Blockers,50mg,True,Sample medication entry
+2025-02-19,Diuretics,50mg,True,Sample medication entry

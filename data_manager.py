@@ -48,10 +48,27 @@ def generate_sample_data():
                 'notes': 'Sample medication entry'
             })
 
+    # Sample medication reminders
+    reminders = [
+        {
+            'medication_name': 'Diuretics',
+            'time': '09:00',
+            'frequency': 'Daily',
+            'enabled': True
+        },
+        {
+            'medication_name': 'Lactulose',
+            'time': '13:00',
+            'frequency': 'Daily',
+            'enabled': True
+        }
+    ]
+
     return {
         'symptoms': pd.DataFrame(symptoms),
         'diet': pd.DataFrame(diet),
-        'medications': pd.DataFrame(medications)
+        'medications': pd.DataFrame(medications),
+        'reminders': pd.DataFrame(reminders)
     }
 
 def ensure_data_files_exist():
@@ -66,3 +83,4 @@ def ensure_data_files_exist():
     sample_data['symptoms'].to_csv('data/symptoms.csv', index=False)
     sample_data['diet'].to_csv('data/diet.csv', index=False)
     sample_data['medications'].to_csv('data/medications.csv', index=False)
+    sample_data['reminders'].to_csv('data/reminders.csv', index=False)
