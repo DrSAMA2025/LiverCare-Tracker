@@ -1,68 +1,64 @@
 date,symptom,severity,notes
-2025-03-20,Abdominal Swelling,8,Sample symptom entry
-2025-03-20,Jaundice,2,Sample symptom entry
-2025-03-20,Fatigue,2,Sample symptom entry
-2025-03-19,Nausea,6,Sample symptom entry
-2025-03-18,Nausea,1,Sample symptom entry
-2025-03-18,Nausea,4,Sample symptom entry
-2025-03-17,Abdominal Swelling,9,Sample symptom entry
-2025-03-17,Fatigue,10,Sample symptom entry
-2025-03-16,Abdominal Swelling,8,Sample symptom entry
-2025-03-16,Jaundice,7,Sample symptom entry
-2025-03-16,Nausea,9,Sample symptom entry
+2025-03-20,Nausea,7,Sample symptom entry
+2025-03-20,Nausea,10,Sample symptom entry
+2025-03-19,Abdominal Swelling,8,Sample symptom entry
+2025-03-19,Nausea,9,Sample symptom entry
+2025-03-19,Jaundice,10,Sample symptom entry
+2025-03-18,Nausea,10,Sample symptom entry
+2025-03-18,Fatigue,10,Sample symptom entry
+2025-03-17,Fatigue,5,Sample symptom entry
+2025-03-16,Fatigue,2,Sample symptom entry
 2025-03-15,Abdominal Swelling,4,Sample symptom entry
-2025-03-15,Fatigue,8,Sample symptom entry
-2025-03-14,Jaundice,7,Sample symptom entry
-2025-03-14,Nausea,8,Sample symptom entry
-2025-03-13,Fatigue,10,Sample symptom entry
-2025-03-13,Jaundice,7,Sample symptom entry
-2025-03-12,Fatigue,4,Sample symptom entry
-2025-03-12,Nausea,1,Sample symptom entry
-2025-03-12,Nausea,5,Sample symptom entry
-2025-03-11,Abdominal Swelling,6,Sample symptom entry
-2025-03-11,Abdominal Swelling,2,Sample symptom entry
-2025-03-11,Abdominal Swelling,6,Sample symptom entry
+2025-03-15,Jaundice,7,Sample symptom entry
+2025-03-14,Fatigue,9,Sample symptom entry
+2025-03-13,Jaundice,10,Sample symptom entry
+2025-03-12,Jaundice,1,Sample symptom entry
+2025-03-11,Fatigue,7,Sample symptom entry
+2025-03-11,Abdominal Swelling,8,Sample symptom entry
+2025-03-11,Jaundice,9,Sample symptom entry
 2025-03-10,Fatigue,9,Sample symptom entry
-2025-03-10,Nausea,8,Sample symptom entry
-2025-03-10,Jaundice,6,Sample symptom entry
-2025-03-09,Fatigue,3,Sample symptom entry
-2025-03-09,Jaundice,6,Sample symptom entry
-2025-03-09,Fatigue,6,Sample symptom entry
-2025-03-08,Nausea,8,Sample symptom entry
-2025-03-08,Nausea,1,Sample symptom entry
-2025-03-08,Nausea,7,Sample symptom entry
-2025-03-07,Fatigue,1,Sample symptom entry
-2025-03-06,Abdominal Swelling,10,Sample symptom entry
-2025-03-06,Fatigue,4,Sample symptom entry
-2025-03-05,Fatigue,6,Sample symptom entry
-2025-03-05,Abdominal Swelling,5,Sample symptom entry
-2025-03-05,Fatigue,4,Sample symptom entry
-2025-03-04,Abdominal Swelling,8,Sample symptom entry
-2025-03-04,Jaundice,10,Sample symptom entry
+2025-03-10,Jaundice,5,Sample symptom entry
+2025-03-09,Nausea,6,Sample symptom entry
+2025-03-09,Abdominal Swelling,10,Sample symptom entry
+2025-03-09,Fatigue,7,Sample symptom entry
+2025-03-08,Nausea,2,Sample symptom entry
+2025-03-08,Fatigue,7,Sample symptom entry
+2025-03-07,Nausea,4,Sample symptom entry
+2025-03-07,Fatigue,7,Sample symptom entry
+2025-03-07,Abdominal Swelling,3,Sample symptom entry
+2025-03-06,Abdominal Swelling,9,Sample symptom entry
+2025-03-06,Nausea,9,Sample symptom entry
+2025-03-06,Fatigue,3,Sample symptom entry
+2025-03-05,Jaundice,4,Sample symptom entry
+2025-03-05,Jaundice,3,Sample symptom entry
+2025-03-04,Nausea,2,Sample symptom entry
+2025-03-04,Abdominal Swelling,10,Sample symptom entry
+2025-03-04,Nausea,5,Sample symptom entry
+2025-03-03,Abdominal Swelling,8,Sample symptom entry
+2025-03-03,Nausea,5,Sample symptom entry
 2025-03-03,Abdominal Swelling,10,Sample symptom entry
-2025-03-03,Abdominal Swelling,4,Sample symptom entry
-2025-03-03,Jaundice,4,Sample symptom entry
-2025-03-02,Jaundice,8,Sample symptom entry
-2025-03-01,Jaundice,1,Sample symptom entry
-2025-03-01,Abdominal Swelling,4,Sample symptom entry
-2025-03-01,Jaundice,9,Sample symptom entry
-2025-02-28,Jaundice,9,Sample symptom entry
-2025-02-27,Nausea,1,Sample symptom entry
-2025-02-27,Abdominal Swelling,10,Sample symptom entry
-2025-02-26,Jaundice,1,Sample symptom entry
-2025-02-26,Abdominal Swelling,4,Sample symptom entry
-2025-02-25,Abdominal Swelling,4,Sample symptom entry
-2025-02-24,Jaundice,1,Sample symptom entry
-2025-02-24,Fatigue,10,Sample symptom entry
-2025-02-23,Nausea,8,Sample symptom entry
-2025-02-23,Abdominal Swelling,4,Sample symptom entry
-2025-02-22,Fatigue,7,Sample symptom entry
-2025-02-22,Nausea,7,Sample symptom entry
-2025-02-22,Fatigue,1,Sample symptom entry
-2025-02-21,Fatigue,1,Sample symptom entry
+2025-03-02,Fatigue,9,Sample symptom entry
+2025-03-02,Nausea,9,Sample symptom entry
+2025-03-02,Abdominal Swelling,9,Sample symptom entry
+2025-03-01,Jaundice,10,Sample symptom entry
+2025-02-28,Abdominal Swelling,3,Sample symptom entry
+2025-02-28,Nausea,5,Sample symptom entry
+2025-02-28,Fatigue,3,Sample symptom entry
+2025-02-27,Fatigue,9,Sample symptom entry
+2025-02-26,Fatigue,4,Sample symptom entry
+2025-02-25,Nausea,7,Sample symptom entry
+2025-02-25,Nausea,10,Sample symptom entry
+2025-02-25,Nausea,10,Sample symptom entry
+2025-02-24,Abdominal Swelling,1,Sample symptom entry
+2025-02-23,Nausea,3,Sample symptom entry
+2025-02-23,Fatigue,10,Sample symptom entry
+2025-02-22,Nausea,8,Sample symptom entry
+2025-02-22,Nausea,5,Sample symptom entry
+2025-02-22,Jaundice,4,Sample symptom entry
+2025-02-21,Jaundice,4,Sample symptom entry
 2025-02-21,Jaundice,5,Sample symptom entry
-2025-02-21,Nausea,6,Sample symptom entry
-2025-02-20,Fatigue,5,Sample symptom entry
-2025-02-20,Jaundice,2,Sample symptom entry
-2025-02-19,Abdominal Swelling,9,Sample symptom entry
-2025-02-19,Fatigue,3,Sample symptom entry
+2025-02-20,Fatigue,10,Sample symptom entry
+2025-02-20,Fatigue,8,Sample symptom entry
+2025-02-19,Nausea,8,Sample symptom entry
+2025-02-19,Nausea,3,Sample symptom entry
+2025-02-19,Fatigue,2,Sample symptom entry
