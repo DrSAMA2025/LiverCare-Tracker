@@ -16,7 +16,10 @@ if not os.path.exists('data'):
     os.makedirs('data')
 
 # Generate fresh sample data
-ensure_data_files_exist()
+try:
+    ensure_data_files_exist()
+except Exception as e:
+    st.warning("Note: Running with existing data files.")
 
 # Main page
 st.title("🏥 LiverCare Tracker")
